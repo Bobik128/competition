@@ -1,0 +1,3 @@
+jan.novak@example.com
+maria.svoboda@example.com
+petr.hlousek@example.net
