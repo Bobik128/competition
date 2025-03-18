@@ -1,4 +1,0 @@
-jan.novak@example.com
-maria.svoboda@example.com
-jan.novak@example.com
-petr.hlousek@example.net
